@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Roboto');
 
 body {
-  background-color: #7A6F9B;
+  background-color: #7A6F9B !important;
   position: relative;
 }
 
